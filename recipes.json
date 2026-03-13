@@ -1,12 +1,17 @@
 [
   {
-    "title": "Spaghetti Bolognese",
-    "ingredients": ["200g spaghetti", "100g ground beef", "1 onion", "tomato sauce"],
-    "instructions": "Cook pasta. Fry beef with onion. Add sauce and combine."
+    "title": "Spaghetti Carbonara",
+    "ingredients": ["spaghetti", "eggs", "parmesan", "bacon", "pepper"],
+    "instructions": "Cook pasta. Fry bacon. Mix eggs and cheese. Combine everything."
   },
   {
-    "title": "Chicken Salad",
-    "ingredients": ["chicken breast", "lettuce", "tomatoes", "olive oil"],
-    "instructions": "Cook chicken, slice it and mix with vegetables."
+    "title": "Chicken Curry",
+    "ingredients": ["chicken", "curry paste", "coconut milk", "rice"],
+    "instructions": "Cook chicken, add curry paste and coconut milk, simmer and serve with rice."
+  },
+  {
+    "title": "Greek Salad",
+    "ingredients": ["tomatoes", "cucumber", "feta", "olives", "olive oil"],
+    "instructions": "Chop everything and mix with olive oil."
   }
 ]
