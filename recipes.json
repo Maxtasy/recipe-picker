@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Spaghetti Bolognese",
+    "ingredients": ["200g spaghetti", "100g ground beef", "1 onion", "tomato sauce"],
+    "instructions": "Cook pasta. Fry beef with onion. Add sauce and combine."
+  },
+  {
+    "title": "Chicken Salad",
+    "ingredients": ["chicken breast", "lettuce", "tomatoes", "olive oil"],
+    "instructions": "Cook chicken, slice it and mix with vegetables."
+  }
+]
