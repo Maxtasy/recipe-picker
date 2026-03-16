@@ -29,16 +29,16 @@ function renderRecipes(list) {
     content.className = 'recipe-content';
 
     content.innerHTML = `
-<div class="recipe-content-inner">
-<strong>Ingredients</strong>
-<ul>
-${recipe.ingredients.map((i) => `<li>${i}</li>`).join('')}
-</ul>
+      <div class="recipe-content-inner">
+      <strong>Ingredients</strong>
+      <ul>
+      ${recipe.ingredients.map((i) => `<li>${i}</li>`).join('')}
+      </ul>
 
-<strong>Instructions</strong>
-<p>${recipe.instructions}</p>
-</div>
-`;
+      <strong>Link</strong>
+      <p>${recipe.link ? `<a href="${recipe.link}" target="_blank">${recipe.link}</a>` : 'No link available'}</p>
+      </div>
+    `;
 
     header.onclick = () => {
       const open = content.style.maxHeight;

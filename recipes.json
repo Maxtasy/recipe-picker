@@ -1,17 +1,134 @@
 [
   {
     "title": "Spaghetti Carbonara",
-    "ingredients": ["spaghetti", "eggs", "parmesan", "bacon", "pepper"],
-    "instructions": "Cook pasta. Fry bacon. Mix eggs and cheese. Combine everything."
+    "ingredients": ["Spaghetti", "Eier", "Parmesan", "Bacon"],
+    "link": null
   },
   {
-    "title": "Chicken Curry",
-    "ingredients": ["chicken", "curry paste", "coconut milk", "rice"],
-    "instructions": "Cook chicken, add curry paste and coconut milk, simmer and serve with rice."
+    "title": "Rote Bete - Feta - Nudeln",
+    "ingredients": ["Rote Beete", "Feta", "Nudeln"],
+    "link": null
   },
   {
-    "title": "Greek Salad",
-    "ingredients": ["tomatoes", "cucumber", "feta", "olives", "olive oil"],
-    "instructions": "Chop everything and mix with olive oil."
+    "title": "Auberginenauflauf",
+    "ingredients": ["Auberginen", "Mozzarella"],
+    "link": null
+  },
+  {
+    "title": "Pizza",
+    "ingredients": ["Pizzateig", "Passierte Tomaten", "Pizzakäse", "Belag nach Wahl"],
+    "link": null
+  },
+  {
+    "title": "Wirsingeintopf mit Hack und Nudeln",
+    "ingredients": ["Wirsing", "Hackfleisch", "Nudeln"],
+    "link": null
+  },
+  {
+    "title": "Kartoffelgratin",
+    "ingredients": ["Kartoffeln", "Hackfleisch", "Sahne", "Gratinäse"],
+    "link": null
+  },
+  {
+    "title": "Flammkuchen",
+    "ingredients": ["Flammkuchenteig", "Schmand", "Zwiebeln", "Speck"],
+    "link": null
+  },
+  {
+    "title": "Ofengemüse mit Halloumi",
+    "ingredients": ["Kartoffeln", "Süßkartoffeln", "Zucchini", "Aubergine", "Halloumi"],
+    "link": null
+  },
+  {
+    "title": "Köttbullar",
+    "ingredients": ["Hackfleisch", "Zwiebeln", "Paniermehl", "Ei"],
+    "link": null
+  },
+  {
+    "title": "Sauerkraut mit Schupfnudeln",
+    "ingredients": ["Sauerkraut", "Schupfnudeln", "Speck"],
+    "link": null
+  },
+  {
+    "title": "Spaghetti Bolognese",
+    "ingredients": [
+      "Spaghetti",
+      "Hackfleisch",
+      "Passierte Tomaten",
+      "Gerauchter Speck",
+      "Knoblauch"
+    ],
+    "link": null
+  },
+  {
+    "title": "Burger",
+    "ingredients": ["Buns", "Patties", "Käsescheiben"],
+    "link": null
+  },
+  {
+    "title": "Pollo Fino mit mediterranem Gemüse",
+    "ingredients": ["Pollo Fino", "Mediterranes Gemüse (TK)"],
+    "link": null
+  },
+  {
+    "title": "Chop Suey",
+    "ingredients": ["Hähnchenbrust", "Gemüse (TK)", "Sojasauce"],
+    "link": null
+  },
+  {
+    "title": "Nudel-Schinken Gratin",
+    "ingredients": [
+      "Nudeln",
+      "Schinken",
+      "Sahne",
+      "Gratinkäse",
+      "Knorr Fix für Nudel-Schinken-Gratin"
+    ],
+    "link": null
+  },
+  {
+    "title": "Gefüllte Paprika",
+    "ingredients": ["Paprika", "Hackfleisch", "Zwiebeln", "Knoblauch"],
+    "link": "https://www.chefkoch.de/rezepte/226491093168336/Gefuellte-Paprika-nach-Uroma-Susanne.html"
+  },
+  {
+    "title": "Paprikageschnetzeltes",
+    "ingredients": ["Paprika", "Geschnetzeltes", "Zwiebeln", "Knoblauch", "Tomatenmark"],
+    "link": null
+  },
+  {
+    "title": "Gulasch",
+    "ingredients": ["Gulasch", "Schalotten", "Rinderfond", "Tomatenmark", "knoblauch"],
+    "link": "https://emmikochteinfach.de/klassisches-rindergulasch/#wprm-recipe-container-4926"
+  },
+  {
+    "title": "Toast Hawaii",
+    "ingredients": ["Toastbrot", "Schinken", "Ananas", "Käsescheiben"],
+    "link": null
+  },
+  {
+    "title": "Pfannenkuchen",
+    "ingredients": ["Mehl", "Eier", "Milch"],
+    "link": null
+  },
+  {
+    "title": "Hähnchenschenkel mit Pommes",
+    "ingredients": ["Hähnchenschenkel", "Pommes"],
+    "link": null
+  },
+  {
+    "title": "Hähnchenfrikassee",
+    "ingredients": ["Hähnchenfrikassee (TK)", "Reis"],
+    "link": null
+  },
+  {
+    "title": "Schmandbrötchen",
+    "ingredients": ["Brötchen", "Schmand", "Lauchzwiebeln", "Schinken", "Käse"],
+    "link": null
+  },
+  {
+    "title": "Wurstsalat",
+    "ingredients": ["Wurst", "Essiggurken", "Zwiebeln", "Essig", "Öl"],
+    "link": null
   }
 ]
