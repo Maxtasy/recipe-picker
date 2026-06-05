@@ -130,5 +130,32 @@
     "title": "Wurstsalat",
     "ingredients": ["Wurst", "Essiggurken", "Zwiebeln", "Essig", "Öl"],
     "link": null
+  },
+  {
+    "title": "Chili con Carne",
+    "ingredients": [
+      "Hackfleisch",
+      "Kidneybohnen",
+      "Mais",
+      "Passierte Tomaten",
+      "Zwiebeln",
+      "Knoblauch"
+    ],
+    "link": null
+  },
+  {
+    "title": "Ragout fin",
+    "ingredients": ["Ragout fin (TK)", "Reis", "Königinnenpasteten"],
+    "link": null
+  },
+  {
+    "title": "Grießschnitten",
+    "ingredients": ["Hartweizengrieß", "Milch", "Zucker", "Eier", "Zimt", "Paniermehl"],
+    "link": null
+  },
+  {
+    "title": "Rouladen",
+    "ingredients": ["Rouladen", "Senf", "Zwiebeln", "Speck", "Gurken"],
+    "link": null
   }
 ]
