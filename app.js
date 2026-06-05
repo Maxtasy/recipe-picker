@@ -61,4 +61,9 @@ document.getElementById('generateBtn').onclick = () => {
   renderRecipes(randomFive);
 };
 
-loadRecipes();
+async function init() {
+  await loadRecipes();
+  document.getElementById('totalRecipes').textContent = recipes.length;
+}
+
+init();
